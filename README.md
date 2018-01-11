@@ -1,6 +1,6 @@
 # speech_processing
 All the assignments from speech processing course- Autumn 2017.
-Problem statements are included in the folders itselves.
+Problem statements are included in the folders.
 Concepts-
 * LP Analysis
 * STFT Analysis
